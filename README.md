@@ -70,6 +70,10 @@ Verification Report
 
 ---
 
+## work picture
+
+<img width="1912" height="781" alt="image" src="https://github.com/user-attachments/assets/4d7595b4-9f35-4ac7-8612-75c48264eaad" />
+
 ## Information Extracted
 
 The application extracts information such as:
