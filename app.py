@@ -25,9 +25,7 @@ st.set_page_config(
 # =========================================================
 
 # Tesseract is installed on your computer at this location.
-pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-)
+pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
 
 # =========================================================
